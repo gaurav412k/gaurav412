@@ -1,0 +1,108 @@
+{
+  "name": "Pawar Gaurav Nanasaheb",
+  "contact": {
+    "phone": "+91 7057529316",
+    "email": "gaurav.gnp.412@gmail.com"
+  },
+  "careerObjective": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills and make a significant contribution to the success of the organization.",
+  "education": [
+    {
+      "qualificationType": "M.Tech Computational Biology (DBT Sponsored)",
+      "institute": "Pondicherry University",
+      "university": "Pondicherry University",
+      "yearOfPassing": "2022-2024 (Pursuing)",
+      "percentage": "-"
+    },
+    {
+      "qualificationType": "B.Tech Biotechnology",
+      "institute": "College of Agricultural Biotechnology, Loni.",
+      "university": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+      "yearOfPassing": "June 2022",
+      "percentage": "7.69 (CGPA)"
+    },
+    {
+      "qualificationType": "H.S.C",
+      "institute": "R K M Vidyalaya Kalwan, Nashik.",
+      "university": "Maharashtra State Board",
+      "yearOfPassing": "March 2018",
+      "percentage": "72.62%"
+    },
+    {
+      "qualificationType": "S.S.C.",
+      "institute": "R K M Vidyalaya Kalwan, Nashik.",
+      "university": "Maharashtra State Board",
+      "yearOfPassing": "March 2016",
+      "percentage": "85.80%"
+    }
+  ],
+  "projects": [
+    {
+      "title": "In-vitro propagation of Syngonium podophyllum",
+      "description": "Successfully completed a project on in-vitro propagation of Syngonium podophyllum at Namo Bioplants, a DBT certified plant biotech company, specializing in mass production of tissue culture and vegetative propagated plants.",
+      "tools": "Plant Tissue Culture",
+      "organization": "Namo Bioplants, Kanasahi Road, Kalwan, Dist: Nashik, MH-423501"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Entrepreneurial Development",
+      "organization": "Namo Bioplants, Kanasahi Road, Kalwan, Dist: Nashik, MH-423501",
+      "duration": "1-month"
+    },
+    {
+      "name": "Maharashtra State Certificate in Information Technology (MS-CIT)"
+    },
+    {
+      "name": "C++ and Python languages",
+      "duration": "Certification programs"
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "organization": "DeepLearning.AI through Coursera",
+      "date": "Jun 19, 2023"
+    }
+  ],
+  "workshops": [
+    {
+      "title": "DecNext12 international workshop on Bioinformatics, Genomics, and Next Generation Sequencing data analysis",
+      "organization": "Nextgenhelper, New Delhi",
+      "date": "December 12-30, 2022",
+      "location": "Pondicherry University"
+    }
+  ],
+  "skills": [
+    "C++",
+    "Python",
+    "Computational Biology",
+    "Plant Tissue Culture",
+    "Deep Learning",
+    "Data Analysis",
+    "Problem Solving",
+    "Teamwork"
+  ],
+  "extraCurricular": [
+    {
+      "activity": "Attended a national-level seminar on Smart Farming: Innovation, Knowledge & Outreach, Agri-Summit 2019",
+      "organization": "Symbiosis Institute of International Business, Pune"
+    },
+    {
+      "activity": "Completed a Project and Training on Plant Tissue Culture",
+      "organization": "Namo Bioplants, Gosrane- Kanashi Road, Kalwan, Nashik"
+    },
+    {
+      "activity": "Participated in the National Conference on Advances in Agricultural and Allied Sciences",
+      "organization": "Aditya Agricultural Education Group, Beed",
+      "date": "2018"
+    }
+  ],
+  "strengths": "I am dedicated, passionate, and able to work with great enthusiasm and interest in any given job.",
+  "personalProfile": {
+    "dateOfBirth": "04th December 2000",
+    "gender": "Male",
+    "fatherName": "Nanasaheb Pawar",
+    "address": "At post. Kalwan, Tal. Kalwan, Dist. Nashik, 423501",
+    "languagesKnown": ["Marathi", "Hindi", "English"],
+    "hobbies": ["Reading and Photography", "Sports"],
+    "nationality": "Indian"
+  }
+}
